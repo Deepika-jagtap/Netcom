@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_11013" data-name="Group 11013" transform="translate(5720 16407)">
+    <rect id="Rectangle_4382" data-name="Rectangle 4382" width="24" height="24" transform="translate(-5720 -16407)" fill="#fff"/>
+    <g id="Icon_feather-shopping-cart" data-name="Icon feather-shopping-cart" transform="translate(-5718.248 -16405.154)">
+      <path id="Path_16523" data-name="Path 16523" d="M12.207,28.5A1.707,1.707,0,1,1,10.5,30.207,1.709,1.709,0,0,1,12.207,28.5Z" transform="translate(-4.524 -12.281)" fill="#585858"/>
+      <path id="Path_16524" data-name="Path 16524" d="M28.707,28.5A1.707,1.707,0,1,1,27,30.207,1.709,1.709,0,0,1,28.707,28.5Z" transform="translate(-11.634 -12.281)" fill="#585858"/>
+      <path id="Path_16525" data-name="Path 16525" d="M16.594,14.512H8.271A2.558,2.558,0,0,1,5.719,12.45L4.293,5.326q-.009-.035-.014-.072l-.71-3.547H.854A.854.854,0,1,1,.854,0H4.268a.854.854,0,0,1,.837.686l.717,3.582H19.634a.854.854,0,0,1,.839,1.014l-1.366,7.162v.006A2.558,2.558,0,0,1,16.594,14.512ZM8.263,12.8h8.331a.853.853,0,0,0,.836-.685L18.6,5.976H6.164l1.229,6.141a.853.853,0,0,0,.854.688Z" transform="translate(0 0)" fill="#585858"/>
+    </g>
+  </g>
+</svg>
